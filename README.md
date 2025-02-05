@@ -1,6 +1,5 @@
 # Hi there, I'm Rayhan Rakib! 👋  
 
-Rayhan-Rakib1/Rayhan-Rakib1 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.  
 
 ## 🚀 About Me  
 I'm a **developer** passionate about building **modern web applications** using the latest technologies.  
