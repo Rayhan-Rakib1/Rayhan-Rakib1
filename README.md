@@ -27,10 +27,12 @@ I'm a **developer** passionate about building **modern web applications** using 
 - UI/UX best practices  
 
 ### 📫 How to reach me:  
-- 📩 Email: [Your Email]  
-- 🔗 LinkedIn: [Your LinkedIn Profile]  
-- 🐦 Twitter: [Your Twitter Handle]  
-
+ 
+<p align="center">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abusayed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rayhan.rakib.626776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu sayed" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rayhan_here_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abusayediwd" height="30" width="40" /></a>
+</p>
 ### 😄 Pronouns:  
 He/Him  
 
