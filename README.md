@@ -1,7 +1,8 @@
 
 ---
-
-![The San Juan Mountains are beautiful!](https://i.ibb.co/XxHSGGsS/Blue-Modern-Email-Signature-3.png "San Juan Mountains")
+<p align="center">
+  <img src="https://i.ibb.co/XxHSGGsS/Blue-Modern-Email-Signature-3.png" alt="Email Signature" width="800px" />
+</p>
 
 
 ## 🚀 About Me  
