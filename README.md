@@ -18,7 +18,15 @@ I'm a **developer** passionate about building **modern web applications** using 
 
 ### 🤔 I’m looking for help with  
 - Performance optimization in React applications  
-- API design best practices  
+- API design best practices
+
+- # 💻 Technologies I Know
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abusaiyedjoy/">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,react,mongodb,nodejs,vite,express,firebase,figma" />
+  </a>
+</p>
 
 ### 💬 Ask me about  
 - React, Vite, and frontend development  
