@@ -2,8 +2,9 @@
 # Hi there, I'm Rakibul Hasan! 👋 
 
 <P align="center">
-  <img src="https://i.ibb.co.com/XxHSGGsS/Blue-Modern-Email-Signature-3.png"/>
+  <img src="https://i.ibb.co/XxHSGGsS/Blue-Modern-Email-Signature-3.png" alt="Email Signature" />
 </P>
+
 
 ## 🚀 About Me  
 I'm a **developer** passionate about building **modern web applications** using the latest technologies.  
