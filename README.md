@@ -1,7 +1,10 @@
 
 # Hi there, I'm Rakibul Hasan! 👋 
 
-![The San Juan Mountains are beautiful!]((https://i.ibb.co.com/XxHSGGsS/Blue-Modern-Email-Signature-3.png) "San Juan Mountains")
+<P align="center">
+  <img src="https://i.ibb.co.com/XxHSGGsS/Blue-Modern-Email-Signature-3.png"/>
+</P>
+
 ## 🚀 About Me  
 I'm a **developer** passionate about building **modern web applications** using the latest technologies.  
 
