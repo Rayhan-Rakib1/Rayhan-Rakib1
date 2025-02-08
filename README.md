@@ -24,6 +24,12 @@ I'm a **developer** passionate about building **modern web applications** using 
 - Performance optimization in React applications  
 - API design best practices
 
+- # 🧨 Current GitHub Activity Streak
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abusaiyedjoy&theme=github-dark&hide_border=true" />
+</p>
+
 - # 💻 Technologies I Know
 
 <p align="center">
