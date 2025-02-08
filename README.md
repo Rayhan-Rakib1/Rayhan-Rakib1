@@ -1,7 +1,7 @@
 
 ---
 <p align="center">
-  <img src="https://i.ibb.co/XxHSGGsS/Blue-Modern-Email-Signature-3.png" alt="Email Signature" width="800px" />
+  <img src="https://i.ibb.co.com/gZCNmVHZ/Screenshot-58.png" alt="Email Signature" width="800px" />
 </p>
 
 
