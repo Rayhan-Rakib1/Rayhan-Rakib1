@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rakib</h1>
-<h3 align="center">🚀 Full Stack Engineer | MERN Specialist | UI & System Design Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Specialist | UI & System Design Enthusiast</h3>
 
 ---
 
