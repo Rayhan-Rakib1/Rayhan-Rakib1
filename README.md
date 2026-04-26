@@ -109,15 +109,15 @@ React, Node.js, Express, MongoDB, Firebase/Auth, Tailwind CSS
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/rakibul-hasan-a44ba13a1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK">
+  <a href="https://www.facebook.com/rayhan.rakib.626776">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
-  </a>
+ <a href="https://portfolio-client-two-plum.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
 </p>
 
 ---
