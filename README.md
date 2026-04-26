@@ -110,24 +110,15 @@ Git • GitHub • Postman • VS Code • API Testing • Debugging
 
 ---
 
-## 📊 GitHub Performance
+
+
+- # 🧨 Current GitHub Activity Streak
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abusaiyedjoy&theme=github-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
@@ -140,22 +131,7 @@ Git • GitHub • Postman • VS Code • API Testing • Debugging
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://portfolio-client-two-plum.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
+## 📫 Contact Me <p align="center"> <a href="https://www.linkedin.com/in/rakibul-hasan-a44ba13a1/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /> </a> <a href="https://www.facebook.com/rayhan.rakib.626776"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" /> </a> <a href="https://portfolio-client-two-plum.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a> </p> ---
 ---
 
 ## ⚡ Developer Philosophy
