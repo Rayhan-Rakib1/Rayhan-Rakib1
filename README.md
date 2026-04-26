@@ -1,7 +1,7 @@
 
 ---
 <p align="center">
-  <img src="https://i.ibb.co.com/mr6pqJsL/White-Beige-Minimalist-Business-Name-Facebook-Cover.png" alt="Email Signature" width="800px" />
+  <img src="https://i.ibb.co.com/4nMb4ZkS/Black-and-Gray-Modern-Personal-Digital-Marketing-Facebook-Cover.png" alt="Email Signature" width="800px" />
 </p>
 
 
