@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co.com/4nMb4ZkS/Black-and-Gray-Modern-Personal-Digital-Marketing-Facebook-Cover.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rakib</h1>
+<h1 align="center">Hi 👋, I'm  Rakib</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Specialist | UI & System Design Enthusiast</h3>
 
 ---
