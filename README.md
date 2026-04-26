@@ -100,7 +100,7 @@ React, Node.js, Express, MongoDB, Firebase/Auth, Tailwind CSS
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://i.ibb.co.com/xSg0RMT3/certificate-level-1.png" />
 </p>
 
 ---
