@@ -100,8 +100,8 @@ React, Node.js, Express, MongoDB, Firebase/Auth, Tailwind CSS
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://i.ibb.co.com/xSg0RMT3/certificate-level-1.png" />
-  <img src="https://i.ibb.co.com/ych1YSML/Level-2-certificate.png" />
+  <img src="https://i.ibb.co.com/xSg0RMT3/certificate-level-1.png" width="45%" />
+  <img src="https://i.ibb.co.com/ych1YSML/Level-2-certificate.png" width="45%" />
 </p>
 
 ---
