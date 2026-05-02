@@ -14,6 +14,39 @@
 </p>
 
 ---
+---
+
+### 🚀 Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,solidjs,angular,bootstrap,mui,nextjs,pug,vite&perline=10" />
+</p>
+
+### ⚙️ Backend & Server-side
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ruby,electron,graphql,rabbitmq,kafka,nginx&perline=10" />
+</p>
+
+### 🗄️ Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,supabase,prisma&perline=10" />
+</p>
+
+### ☁️ Cloud, Hosting & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,firebase,vercel,netlify,heroku&perline=10" />
+</p>
+
+### 🧪 Testing, Version Control & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,github,githubactions&perline=10" />
+</p>
+
+### 🐧 OS & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows&perline=10" />
+</p>
+
+---
 
 ## 🧠 About Me (Engineering Mindset)
 
